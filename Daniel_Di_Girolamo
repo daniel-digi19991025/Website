@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Daniel Di Girolamo | Legal Professional</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>Daniel Di Girolamo</h1>
+    <p>Law Student | Web Designer | Multilingual Communicator</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#experience">Experience</a>
+    <a href="#resume">Resume</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Bilingual law student at UQAM with a background in political science and history from McGill. Passionate about justice, technology, and public service.</p>
+    <p>Languages: English, French, Italian, American Sign Language (basic)</p>
+  </section>
+
+  <section id="experience">
+    <h2>Professional Experience</h2>
+    <ul>
+      <li><strong>Registration Officer – Elections Canada:</strong> Managed voter registration and compliance during federal elections.</li>
+      <li><strong>Web Designer – Dine-Art Inc.:</strong> Created secure, SEO-optimized websites.</li>
+      <li><strong>Wikipedia Editor (Volunteer):</strong> Updated public knowledge with verified and accurate legal and historical content.</li>
+    </ul>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p><a href="Daniel_Di_Girolamo_CV_EN_Styled.docx" download>Download My Resume (DOCX)</a></p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:danieldigirolamo1999@gmail.com">danieldigirolamo1999@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Daniel Di Girolamo. All rights reserved.</p>
+  </footer>
+</body>
+</html>
